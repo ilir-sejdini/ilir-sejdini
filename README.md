@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+    <a href="https://leetcode.com/ilir-sejdini/"><img width="55%" src="https://leetcode.card.workers.dev/ilir-sejdini?theme=default&font=baloo&extension=null"></a>
+</p>
