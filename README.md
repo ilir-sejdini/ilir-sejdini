@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <p align="center">
     <a href="https://leetcode.com/ilir-sejdini/"><img width="65%" src="https://leetcode.card.workers.dev/ilir-sejdini?theme=default&font=baloo&extension=null"></a>
 </p>
+-->
